@@ -1,4 +1,4 @@
-from person_3 import Person
+from basics.person_3 import Person
 
 class Program:
     def __init__(self, name, duration):

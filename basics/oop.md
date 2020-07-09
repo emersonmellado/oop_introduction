@@ -35,7 +35,7 @@ Write a few classes that could be used in a system for a school using basic OOP 
   1         2         3 
 Input -> Process -> Output
 
-1. What is the input?
+1. What are the inputs?
 2. What are the processes required?
 3. What is the expected output?
 
